@@ -1,4 +1,4 @@
-# Matrix Calculator (copas ocep)
+# Matrix Calculator
 
 ### Matrice Calculator Project made to fulfill the first major task of IF2123 'Aljabar Linier dan Geometri' Class at Institut Teknologi Bandung.
 #### The program included Polynomial Interpolation, Multiple Linear Regression, Linear Equation System and Determinant calculation that done through various methods.
